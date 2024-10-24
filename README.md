@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Engineer, Mechatronics Engi
 
 ## 🌟 Key Projects
 
-### 🔹 [AI-Based Infant Emotion Recognition System](https://github.com/yourrepo)
+### 🔹 [AI-Based Infant Emotion Recognition System](https://github.com/Unique8597/Emotion-Recognition)
 AI model for emotion recognition in infants, integrating deep learning and fuzzy logic for use in caregiving robots.
 
 ### 🔹 [Smart Home Energy Prediction](https://github.com/yourrepo)
