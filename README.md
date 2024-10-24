@@ -9,16 +9,16 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Engineer, Mechatronics Engi
 - **🧠 Lifelong Learner**: Constantly learning and exploring new tech, from machine learning to IoT.
 - **🌍 Community Leader**: I lead the Data Science Network at FUTMinna, where I help grow the data science community through workshops, mentorship, and collaboration.
 - **💬 Ask me about**: AI/ML, Embedded Systems, Robotics, Data Science, and IoT.
-- **📫 How to reach me**: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:youremail@gmail.com)
+- **📫 How to reach me**: [LinkedIn](https://linkedin.com/in/anichigozie) | [Email](mailto:ani.mlengineer@outlook.com)
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages**: Python, C++, MATLAB, Embedded C
-- **AI/ML Tools**: TensorFlow, Keras, PyTorch, Scikit-Learn, AssemblyAI
+- **Programming Languages**: Python, Embedded C
+- **AI/ML Tools**: TensorFlow, Keras, PyTorch, Scikit-Learn
 - **Embedded Systems**: Raspberry Pi, Arduino, PIC Microcontrollers
-- **Cloud Services**: Microsoft Azure, AWS
+- **Cloud Services**: Microsoft Azure
 - **Data Science**: Data Analysis, Predictive Modeling, RNNs, Data Visualization
 
 ---
@@ -49,9 +49,9 @@ A Raspberry Pi-based reader system using OCR and text-to-speech technology to as
 
 I’m always open to connecting with fellow engineers, data scientists, and AI enthusiasts. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anichigozie)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aniemmanuelc)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ani.mlengineer@outlook.com)
 
 ---
 
