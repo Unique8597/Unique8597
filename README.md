@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Engineer, Mechatronics Engi
 
 ## 🚀 About Me
 
-- **🔧 Engineer**: Mechatronics Engineering graduate with expertise in AI/ML and embedded systems.
-- **🌱 Current Focus**: I'm working on AI-based emotion recognition for caregiving robots and smart home energy prediction systems.
-- **🧠 Lifelong Learner**: Constantly learning and exploring new tech, from machine learning to IoT.
+- **🔧 Engineer**: Mechatronics Engineering graduate with expertise in AI/ML and embedded systems from the Federal University of Technology Minna (FUTMinna).
+- **🌱 Current Focus**: I'm working on a startup project called Rikruta
+- **🧠 Lifelong Learner**: Constantly learning and exploring new tech, from machine learning to MLOps.
 - **🌍 Community Leader**: I lead the Data Science Network at FUTMinna, where I help grow the data science community through workshops, mentorship, and collaboration.
 - **💬 Ask me about**: AI/ML, Embedded Systems, Robotics, Data Science, and IoT.
 - **📫 How to reach me**: [LinkedIn](https://linkedin.com/in/anichigozie) | [Email](mailto:ani.mlengineer@outlook.com)
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Engineer, Mechatronics Engi
 ## 🛠️ Technical Skills
 
 - **Programming Languages**: Python, Embedded C
-- **AI/ML Tools**: TensorFlow, Keras, PyTorch, Scikit-Learn
+- **AI/ML Tools**: TensorFlow, Keras, Scikit-Learn
 - **Embedded Systems**: Raspberry Pi, Arduino, PIC Microcontrollers
 - **Cloud Services**: Microsoft Azure
 - **Data Science**: Data Analysis, Predictive Modeling, RNNs, Data Visualization
@@ -27,9 +27,6 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Engineer, Mechatronics Engi
 
 ### 🔹 [AI-Based Infant Emotion Recognition System](https://github.com/Unique8597/Emotion-Recognition)
 AI model for emotion recognition in infants, integrating deep learning and fuzzy logic for use in caregiving robots.
-
-### 🔹 [Smart Home Energy Prediction](https://github.com/yourrepo)
-RNN-based system that predicts household energy consumption and alerts users when credits are about to deplete.
 
 ### 🔹 [Raspberry Pi-Based Reader for the Visually Impaired](https://github.com/yourrepo)
 A Raspberry Pi-based reader system using OCR and text-to-speech technology to assist visually impaired individuals in reading printed documents.
